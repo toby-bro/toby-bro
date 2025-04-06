@@ -6,7 +6,8 @@
 - :milky_way: Nothing like a good tui and endless keyboard remappings on long forlorn projects
 - :tent: I wanted to say vim > emacs but I don't know emacs
 - :snake: I guess I am good at snake
-- :fuelpump: I don't know what this emoji means but wanted an even number of bulletpoints
+- :fuelpump: I don't know what this emoji means but wanted an odd number of bulletpoints
+- :cyclone: Oh and lastly, I have strictly no idea what these stats mean but I am sure they are impressive
 
 If you were wondering what I wasn't worth : here are the awestriking stats
 
