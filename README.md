@@ -10,8 +10,6 @@
 - :whale: namespace management is underrated
 - :cyclone: Oh and lastly, I don't know either what these stats mean, but I am sure they are impressive
 
-If you were wondering what I wasn't worth : here are the awestriking stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toby-bro&layout=compact&theme=transparent&exclude_repo=Prologin)
 
 ![toby-bro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=toby-bro&theme=transparent)
