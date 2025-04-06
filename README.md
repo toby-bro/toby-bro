@@ -2,7 +2,7 @@
 
 - :warning: I am just another linux guy
 - :penguin: Oh and did I mention I like linux?
-- [:skull:](https://www.root-me.org/toby-725583) I am interested in anything related to security
+- [:skull:](https://github.com/toby-bro/toby-bro/blob/ego_trip/ego_trip.md) I am interested in anything related to security
 - :milky_way: Nothing like a good tui and endless keyboard remappings on long forlorn projects
 - :tent: I wanted to say vim > emacs but I don't know emacs
 - :snake: I guess I am good at snake
