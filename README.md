@@ -2,12 +2,12 @@
 
 - :warning: I am just another linux guy
 - :penguin: Oh and did I mention I like linux?
-- :key: I am interested in anything related to security
+- [:skull:](https://www.root-me.org/toby-725583) I am interested in anything related to security
 - :milky_way: Nothing like a good tui and endless keyboard remappings on long forlorn projects
 - :tent: I wanted to say vim > emacs but I don't know emacs
 - :snake: I guess I am good at snake
-- :fuelpump: I don't know what this emoji means but wanted an odd number of bulletpoints
-- :cyclone: Oh and lastly, I have strictly no idea what these stats mean but I am sure they are impressive
+- :fuelpump: You think I'm a dev ? Nah, I'm just vibing
+- :cyclone: Oh and lastly, I don't know either what these stats mean, but I am sure they are impressive
 
 If you were wondering what I wasn't worth : here are the awestriking stats
 
