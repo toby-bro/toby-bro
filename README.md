@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toby-bro&layout=compact&theme=transparent)
 
-[![toby-bro's streak](https://github-readme-streak-stats.herokuapp.com?user=toby-bro&theme=transparent)](https://git.io/streak-stats)
+[![toby-bro's streak](https://github-readme-streak-stats.herokuapp.com?user=toby-bro&theme=transparent&exclude_days=sat,sun)](https://git.io/streak-stats)
 
 ![toby-bro's GitHub stats](https://github-readme-stats.vercel.app/api?username=toby-bro&show_icons=true&theme=transparent&count_private=true)
 
