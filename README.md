@@ -5,7 +5,7 @@
 - [:skull:](https://github.com/toby-bro/toby-bro/blob/ego_trip/ego_trip.md) I am interested in anything related to security
 - :milky_way: Nothing like a good tui and endless keyboard remappings on long forlorn projects
 - :tent: I wanted to say vim > emacs but I don't know emacs
-- :snake: I guess I am good at snake
+- :snake: My biggest achievement in life [#1038](https://regexcrossword.com/players/91779) worldwide on regex croswords
 - :fuelpump: You think I'm a dev ? Nah, I'm just vibing
 - :whale: namespace management is underrated
 - :cyclone: Oh and lastly, I don't know either what these stats mean, but I am sure they are impressive
